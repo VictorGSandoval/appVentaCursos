@@ -1,4 +1,4 @@
-# appVentaCursos
+# APPVENTASCURSOS
 Desarrollo del 1er Taller de base de Datos
 ## Estructura y descripción de tablas
 Esta base de datos esta conformada por las siguientes tablas:
