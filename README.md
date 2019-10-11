@@ -13,7 +13,7 @@ Esta base de datos esta conformada por las siguientes tablas:
 
 ## Relaciones entre tablas
 
-Para establecer las relaciones debe tener en cuenta lo siguiente:
+Las relaciones son las siguiente:
 - Un empleado puede ser Jefe de ninguno, uno o muchos empleados.
 - Un departamento está conformado por ninguno, uno o muchos empleados.
 - En un nivel o grado de sueldo pueden estar comprendidos 0, 1 ó muchos sueldos de los empleados.
